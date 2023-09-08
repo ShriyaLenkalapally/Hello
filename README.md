@@ -3,6 +3,6 @@
 It's is a sample repo
 Dheeraj is stupid.
 
-## Local Dev
+## local dev
 
 1.open index.html in your browser
